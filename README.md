@@ -11,7 +11,7 @@ its item tree, sequences, tracks and clips. The API is very close to the
 [ExtendScript API](https://ppro-scripting.docsforadobe.dev/), with
 validated inputs.
 
-Sibling project of [py-aep](https://github.com/Pouf/py-aep).
+Sibling project of [py-aep](https://github.com/forticheprod/py-aep).
 
 ## Features
 
