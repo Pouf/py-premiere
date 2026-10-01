@@ -2,7 +2,7 @@
 
 `py_premiere` is a Python package for working with Adobe Premiere Pro project
 files (`.prproj`). It is the Premiere sibling of
-[py-aep](https://github.com/Pouf/py-aep).
+[py-aep](https://github.com/forticheprod/py-aep).
 
 A `.prproj` file is a gzip-compressed XML object graph. `py_premiere` parses
 it into typed Python classes mirroring the
